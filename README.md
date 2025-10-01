@@ -53,7 +53,7 @@ php artisan migrate
 5. **Seeder data awal**
 
 ```bash
-php artisan db:seed --class=BookSeeder
+php artisan db:seed
 ```
 
 6. **Jalankan aplikasi**
