@@ -5,6 +5,13 @@ Fitur yang tersedia mencakup **CRUD** (Create, Read, Update, Delete) serta dukun
 
 ---
 
+## ⚠️ Warning
+
+Project ini dibangun dengan mengambil kerangka Laravel dari project sebelumnya.  
+Maka ada kemungkinan terdapat file, konfigurasi, atau folder yang **tidak diperlukan** dalam project ini.
+
+---
+
 ## 🚀 Fitur
 
 -   Tambah buku baru
