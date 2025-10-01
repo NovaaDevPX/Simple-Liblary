@@ -12,4 +12,3 @@ Route::get('/', [BooksController::class, 'index'])->name('index');
 
 require __DIR__ . '/auth.php';
 require __DIR__ . '/pages/books.php';
-require __DIR__ . '/api/books.php';
